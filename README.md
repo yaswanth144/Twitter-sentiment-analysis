@@ -6,6 +6,7 @@ Natural Language Processing (NLP) is a hotbed of research in data science these 
 Let’s go through the problem statement once as it is very crucial to understand the objective before working on the dataset.The problem statement is as follows:
 
 The objective of this task is to predict whether the tweets are positive or negative.
+
 Read the dataset and split it into train and test data.We have to remove neutral tweets as we have to predict either positve or negative.
 
 Now split the train data based on positive and negative sentiments and remove unnecessary symbols(#,@,e.t.c) for visualising tweets separately for positive and negative words using wordcloud.
